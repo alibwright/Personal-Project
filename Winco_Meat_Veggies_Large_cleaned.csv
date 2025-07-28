@@ -1,0 +1,802 @@
+store,item,unit,price_per_unit
+Winco,Sirloin Steak,pound,8.19
+Winco,Salmon Fillet,package,9.99
+Winco,Shrimp,package,10.56
+Winco,Chicken Drumsticks,pound,2.31
+Winco,Sirloin Steak,pound,7.69
+Winco,Hot Dogs,pound,4.06
+Winco,Pork Chops,package,3.5
+Winco,Sirloin Steak,pound,8.35
+Winco,Tilapia Fillet,package,7.79
+Winco,Sirloin Steak,pound,8.41
+Winco,Beef Brisket,package,7.09
+Winco,Pork Shoulder,pound,2.18
+Winco,Ground Chicken,package,3.01
+Winco,Cod Fillet,package,8.99
+Winco,Ground Turkey,pound,3.15
+Winco,Bacon,package,5.72
+Winco,Sirloin Steak,package,7.85
+Winco,Ribeye Steak,package,12.11
+Winco,Ground Beef,package,5.15
+Winco,Pork Chops,package,4.36
+Winco,Lamb Chops,package,13.37
+Winco,Bacon,pound,5.11
+Winco,Ribeye Steak,pound,11.57
+Winco,Ground Turkey,package,3.78
+Winco,Beef Brisket,package,6.8
+Winco,Bacon,package,5.54
+Winco,Pork Shoulder,pound,2.57
+Winco,Ground Beef,package,5.24
+Winco,Tilapia Fillet,package,7.45
+Winco,Cod Fillet,package,8.81
+Winco,Ground Turkey,package,3.33
+Winco,Ground Beef,pound,4.52
+Winco,Chicken Breast,package,2.69
+Winco,Turkey Breast,package,3.8
+Winco,Cod Fillet,package,8.77
+Winco,Sausage Links,pound,4.95
+Winco,Turkey Breast,pound,4.07
+Winco,Bacon,package,5.13
+Winco,Ground Chicken,package,3.05
+Winco,Chicken Drumsticks,package,1.83
+Winco,Chicken Thighs,package,2.38
+Winco,Pork Shoulder,pound,2.42
+Winco,Sirloin Steak,pound,7.76
+Winco,Salmon Fillet,pound,9.56
+Winco,Pork Shoulder,pound,2.04
+Winco,Ground Chicken,pound,2.82
+Winco,Ribeye Steak,package,11.59
+Winco,Tilapia Fillet,pound,7.95
+Winco,Chicken Breast,pound,2.62
+Winco,Chicken Drumsticks,pound,2.26
+Winco,Chicken Breast,package,3.32
+Winco,Ground Beef,pound,4.79
+Winco,Sausage Links,pound,4.96
+Winco,Turkey Breast,pound,3.84
+Winco,Chicken Breast,pound,3.41
+Winco,Ground Turkey,pound,3.27
+Winco,Beef Brisket,package,6.67
+Winco,Ground Beef,pound,5.15
+Winco,Bacon,pound,5.29
+Winco,Sausage Links,pound,5.29
+Winco,Chicken Drumsticks,package,2.14
+Winco,Cod Fillet,package,9.23
+Winco,Salmon Fillet,pound,10.05
+Winco,Tilapia Fillet,package,7.88
+Winco,Sausage Links,pound,5.45
+Winco,Sausage Links,package,5.36
+Winco,Shrimp,package,11.04
+Winco,Hot Dogs,pound,4.26
+Winco,Hot Dogs,pound,3.99
+Winco,Cod Fillet,package,9.09
+Winco,Pork Chops,pound,3.68
+Winco,Ribeye Steak,package,11.66
+Winco,Ground Chicken,pound,3.38
+Winco,Turkey Breast,package,4.39
+Winco,Chicken Drumsticks,package,1.73
+Winco,Salmon Fillet,pound,10.39
+Winco,Ground Turkey,package,3.26
+Winco,Pork Chops,package,4.17
+Winco,Ground Beef,package,4.88
+Winco,Ground Chicken,package,3.45
+Winco,Pork Shoulder,pound,2.98
+Winco,Hot Dogs,package,3.82
+Winco,Chicken Thighs,package,2.02
+Winco,Turkey Breast,package,3.99
+Winco,Ground Turkey,pound,3.39
+Winco,Turkey Breast,package,3.68
+Winco,Lamb Chops,pound,12.75
+Winco,Cod Fillet,pound,8.67
+Winco,Chicken Thighs,pound,2.97
+Winco,Salmon Fillet,pound,9.6
+Winco,Pork Shoulder,pound,2.29
+Winco,Ground Beef,package,5.06
+Winco,Chicken Drumsticks,package,2.15
+Winco,Ground Beef,pound,4.77
+Winco,Lamb Chops,pound,12.86
+Winco,Hot Dogs,package,4.35
+Winco,Chicken Drumsticks,package,2.28
+Winco,Ground Turkey,pound,3.06
+Winco,Chicken Drumsticks,pound,1.97
+Winco,Tilapia Fillet,package,7.27
+Winco,Ground Chicken,pound,3.45
+Winco,Chicken Breast,package,2.81
+Winco,Sausage Links,package,4.79
+Winco,Cod Fillet,pound,8.91
+Winco,Cod Fillet,package,8.64
+Winco,Shrimp,package,11.03
+Winco,Sirloin Steak,package,7.88
+Winco,Sausage Links,package,4.68
+Winco,Tilapia Fillet,package,7.78
+Winco,Tilapia Fillet,package,7.99
+Winco,Ribeye Steak,pound,11.69
+Winco,Chicken Drumsticks,package,1.93
+Winco,Chicken Thighs,pound,2.15
+Winco,Shrimp,pound,11.21
+Winco,Chicken Breast,pound,2.95
+Winco,Bacon,package,5.82
+Winco,Ground Turkey,package,3.87
+Winco,Ribeye Steak,pound,12.22
+Winco,Sirloin Steak,package,7.67
+Winco,Chicken Drumsticks,package,1.51
+Winco,Ground Turkey,pound,3.8
+Winco,Bacon,package,5.31
+Winco,Pork Shoulder,pound,2.13
+Winco,Lamb Chops,pound,12.96
+Winco,Sirloin Steak,pound,8.34
+Winco,Chicken Breast,package,2.89
+Winco,Lamb Chops,package,12.56
+Winco,Pork Chops,package,3.52
+Winco,Ground Beef,pound,4.86
+Winco,Sirloin Steak,package,7.68
+Winco,Lamb Chops,pound,13.0
+Winco,Chicken Drumsticks,pound,2.04
+Winco,Chicken Drumsticks,package,1.92
+Winco,Ground Beef,pound,4.82
+Winco,Pork Chops,package,3.56
+Winco,Ground Beef,package,4.88
+Winco,Beef Brisket,pound,7.03
+Winco,Ground Chicken,package,3.06
+Winco,Ribeye Steak,pound,12.46
+Winco,Ground Turkey,package,3.8
+Winco,Pork Chops,package,4.01
+Winco,Pork Shoulder,pound,2.09
+Winco,Chicken Breast,package,3.21
+Winco,Shrimp,pound,10.85
+Winco,Cod Fillet,package,9.24
+Winco,Bacon,pound,5.23
+Winco,Lamb Chops,pound,13.36
+Winco,Sausage Links,package,4.75
+Winco,Beef Brisket,pound,6.57
+Winco,Ground Beef,pound,4.95
+Winco,Beef Brisket,pound,7.47
+Winco,Chicken Drumsticks,package,1.95
+Winco,Salmon Fillet,package,10.34
+Winco,Ground Chicken,pound,3.4
+Winco,Chicken Drumsticks,pound,2.13
+Winco,Chicken Breast,package,3.02
+Winco,Ground Chicken,package,3.45
+Winco,Sausage Links,pound,5.45
+Winco,Beef Brisket,package,6.93
+Winco,Cod Fillet,pound,8.87
+Winco,Pork Chops,pound,3.89
+Winco,Shrimp,package,11.39
+Winco,Chicken Drumsticks,pound,2.39
+Winco,Tilapia Fillet,package,7.57
+Winco,Salmon Fillet,package,9.94
+Winco,Ground Chicken,package,3.02
+Winco,Tilapia Fillet,package,7.34
+Winco,Chicken Drumsticks,pound,2.32
+Winco,Ground Beef,package,5.12
+Winco,Ground Chicken,package,3.21
+Winco,Cod Fillet,package,9.05
+Winco,Chicken Thighs,pound,2.0
+Winco,Ground Chicken,package,3.68
+Winco,Ribeye Steak,pound,11.63
+Winco,Lamb Chops,pound,12.55
+Winco,Ground Chicken,pound,3.01
+Winco,Bacon,package,5.66
+Winco,Sirloin Steak,pound,8.37
+Winco,Lamb Chops,pound,13.28
+Winco,Ribeye Steak,pound,11.85
+Winco,Shrimp,pound,10.96
+Winco,Chicken Drumsticks,package,2.12
+Winco,Ground Beef,pound,4.69
+Winco,Cod Fillet,package,9.34
+Winco,Pork Chops,pound,4.06
+Winco,Chicken Drumsticks,pound,2.04
+Winco,Salmon Fillet,package,10.33
+Winco,Turkey Breast,package,3.72
+Winco,Ribeye Steak,package,12.34
+Winco,Turkey Breast,pound,3.66
+Winco,Ground Beef,package,4.8
+Winco,Pork Shoulder,package,2.37
+Winco,Pork Shoulder,pound,1.99
+Winco,Salmon Fillet,package,10.2
+Winco,Ground Beef,package,4.94
+Winco,Chicken Drumsticks,pound,2.32
+Winco,Cod Fillet,pound,8.84
+Winco,Shrimp,pound,11.12
+Winco,Chicken Breast,package,2.69
+Winco,Ground Chicken,pound,3.03
+Winco,Sirloin Steak,pound,7.54
+Winco,Chicken Breast,pound,2.64
+Winco,Cod Fillet,pound,9.06
+Winco,Bacon,pound,5.53
+Winco,Chicken Thighs,pound,2.82
+Winco,Tilapia Fillet,package,7.48
+Winco,Lamb Chops,pound,12.75
+Winco,Hot Dogs,pound,3.51
+Winco,Beef Brisket,package,7.08
+Winco,Bacon,package,5.23
+Winco,Lamb Chops,package,12.99
+Winco,Lamb Chops,pound,12.93
+Winco,Ground Chicken,package,3.15
+Winco,Chicken Breast,package,2.85
+Winco,Bacon,package,5.36
+Winco,Ground Turkey,pound,3.68
+Winco,Bacon,pound,5.87
+Winco,Lamb Chops,pound,13.4
+Winco,Chicken Breast,pound,2.93
+Winco,Hot Dogs,package,4.15
+Winco,Turkey Breast,package,4.35
+Winco,Lamb Chops,package,13.25
+Winco,Ground Beef,package,5.43
+Winco,Sausage Links,package,4.99
+Winco,Sausage Links,package,5.04
+Winco,Lamb Chops,package,13.32
+Winco,Chicken Drumsticks,pound,2.43
+Winco,Shrimp,package,10.74
+Winco,Ground Beef,package,5.21
+Winco,Sirloin Steak,package,8.22
+Winco,Ground Chicken,pound,3.32
+Winco,Ground Chicken,pound,3.74
+Winco,Ground Beef,package,5.14
+Winco,Chicken Thighs,pound,2.28
+Winco,Sirloin Steak,package,8.05
+Winco,Lamb Chops,package,13.04
+Winco,Ground Chicken,package,3.08
+Winco,Tilapia Fillet,pound,7.26
+Winco,Beef Brisket,package,6.93
+Winco,Shrimp,pound,10.99
+Winco,Bacon,pound,5.72
+Winco,Pork Shoulder,pound,2.91
+Winco,Ground Beef,package,4.97
+Winco,Tilapia Fillet,pound,7.53
+Winco,Chicken Breast,package,3.29
+Winco,Ground Beef,package,4.73
+Winco,Chicken Drumsticks,package,1.8
+Winco,Shrimp,package,10.62
+Winco,Beef Brisket,pound,6.53
+Winco,Bacon,package,5.69
+Winco,Chicken Thighs,pound,1.99
+Winco,Hot Dogs,pound,3.58
+Winco,Chicken Drumsticks,pound,1.51
+Winco,Chicken Thighs,pound,2.62
+Winco,Chicken Drumsticks,pound,2.18
+Winco,Chicken Thighs,pound,2.26
+Winco,Hot Dogs,package,4.19
+Winco,Beef Brisket,pound,7.34
+Winco,Pork Chops,pound,3.78
+Winco,Chicken Drumsticks,package,2.46
+Winco,Tilapia Fillet,pound,7.27
+Winco,Sirloin Steak,package,8.42
+Winco,Shrimp,package,10.94
+Winco,Chicken Drumsticks,pound,2.19
+Winco,Chicken Drumsticks,pound,1.6
+Winco,Pork Chops,pound,3.72
+Winco,Pork Shoulder,package,2.64
+Winco,Hot Dogs,package,4.16
+Winco,Pork Chops,pound,4.47
+Winco,Pork Shoulder,pound,2.85
+Winco,Ground Turkey,pound,3.79
+Winco,Ground Turkey,package,3.32
+Winco,Pork Chops,pound,4.01
+Winco,Ground Turkey,pound,3.66
+Winco,Pork Chops,pound,3.93
+Winco,Beef Brisket,pound,7.21
+Winco,Ribeye Steak,package,11.58
+Winco,Chicken Drumsticks,package,1.7
+Winco,Chicken Thighs,package,2.3
+Winco,Hot Dogs,pound,3.55
+Winco,Ribeye Steak,pound,11.9
+Winco,Bacon,pound,5.29
+Winco,Ribeye Steak,pound,11.81
+Winco,Bacon,package,5.03
+Winco,Ground Beef,pound,4.82
+Winco,Ribeye Steak,pound,11.98
+Winco,Ground Beef,package,4.62
+Winco,Tilapia Fillet,pound,7.17
+Winco,Pork Chops,pound,3.92
+Winco,Ground Turkey,pound,3.79
+Winco,Lamb Chops,package,13.23
+Winco,Ribeye Steak,pound,11.73
+Winco,Lamb Chops,pound,13.36
+Winco,Pork Chops,package,3.86
+Winco,Ground Turkey,pound,3.65
+Winco,Ribeye Steak,pound,11.58
+Winco,Bacon,pound,5.1
+Winco,Ground Chicken,pound,3.61
+Winco,Chicken Thighs,package,2.78
+Winco,Sirloin Steak,package,7.91
+Winco,Sirloin Steak,pound,8.32
+Winco,Ground Chicken,pound,2.99
+Winco,Chicken Breast,pound,2.79
+Winco,Hot Dogs,pound,4.29
+Winco,Ground Chicken,package,3.47
+Winco,Lamb Chops,pound,12.56
+Winco,Bacon,pound,5.9
+Winco,Tilapia Fillet,pound,7.73
+Winco,Pork Chops,pound,3.75
+Winco,Salmon Fillet,package,9.75
+Winco,Sausage Links,pound,5.32
+Winco,Salmon Fillet,package,9.99
+Winco,Bacon,pound,5.08
+Winco,Lamb Chops,pound,12.66
+Winco,Pork Shoulder,package,2.4
+Winco,Ground Beef,pound,5.46
+Winco,Ground Beef,pound,5.38
+Winco,Chicken Breast,pound,3.45
+Winco,Chicken Breast,package,2.86
+Winco,Hot Dogs,pound,4.06
+Winco,Tilapia Fillet,package,7.34
+Winco,Ribeye Steak,package,12.48
+Winco,Hot Dogs,pound,4.29
+Winco,Ground Chicken,pound,2.81
+Winco,Hot Dogs,package,4.1
+Winco,Pork Shoulder,pound,2.83
+Winco,Ground Turkey,pound,3.23
+Winco,Sirloin Steak,package,8.47
+Winco,Sausage Links,package,4.54
+Winco,Bacon,package,5.97
+Winco,Chicken Thighs,pound,2.76
+Winco,Chicken Drumsticks,package,2.01
+Winco,Ground Beef,package,5.46
+Winco,Ground Beef,pound,4.8
+Winco,Bacon,pound,5.98
+Winco,Tilapia Fillet,package,7.39
+Winco,Sausage Links,pound,5.49
+Winco,Sirloin Steak,package,7.87
+Winco,Lamb Chops,pound,13.11
+Winco,Hot Dogs,pound,4.35
+Winco,Bacon,package,5.83
+Winco,Beef Brisket,pound,6.8
+Winco,Salmon Fillet,pound,10.37
+Winco,Tilapia Fillet,pound,7.94
+Winco,Tilapia Fillet,pound,7.46
+Winco,Salmon Fillet,package,10.25
+Winco,Chicken Thighs,pound,2.29
+Winco,Sausage Links,pound,5.36
+Winco,Chicken Drumsticks,pound,2.38
+Winco,Cod Fillet,pound,8.79
+Winco,Salmon Fillet,pound,10.38
+Winco,Shrimp,pound,11.26
+Winco,Lamb Chops,pound,13.02
+Winco,Beef Brisket,pound,6.61
+Winco,Pork Shoulder,pound,2.7
+Winco,Tilapia Fillet,pound,7.85
+Winco,Lamb Chops,pound,13.17
+Winco,Sausage Links,package,4.59
+Winco,Ribeye Steak,pound,12.39
+Winco,Sirloin Steak,pound,8.06
+Winco,Turkey Breast,pound,3.52
+Winco,Beef Brisket,package,7.06
+Winco,Pork Shoulder,pound,2.02
+Winco,Ground Chicken,pound,2.98
+Winco,Sausage Links,package,4.5
+Winco,Ground Beef,package,5.23
+Winco,Shrimp,package,11.27
+Winco,Turkey Breast,pound,4.17
+Winco,Salmon Fillet,package,10.23
+Winco,Beef Brisket,package,7.24
+Winco,Pork Shoulder,package,2.31
+Winco,Hot Dogs,package,4.27
+Winco,Lamb Chops,pound,13.19
+Winco,Chicken Drumsticks,pound,2.48
+Winco,Chicken Drumsticks,pound,2.27
+Winco,Sirloin Steak,pound,7.51
+Winco,Ground Beef,pound,4.59
+Winco,Tilapia Fillet,pound,7.53
+Winco,Sirloin Steak,pound,7.93
+Winco,Sirloin Steak,package,7.62
+Winco,Sausage Links,package,5.06
+Winco,Cod Fillet,pound,8.49
+Winco,Chicken Breast,package,2.7
+Winco,Bacon,pound,5.81
+Winco,Turkey Breast,pound,3.93
+Winco,Chicken Thighs,package,2.35
+Winco,Salmon Fillet,package,9.61
+Winco,Beef Brisket,pound,6.73
+Winco,Shrimp,package,11.11
+Winco,Turkey Breast,pound,4.2
+Winco,Beef Brisket,pound,7.05
+Winco,Ground Chicken,pound,2.86
+Winco,Turkey Breast,package,3.58
+Winco,Chicken Thighs,package,2.84
+Winco,Sausage Links,pound,5.23
+Winco,Chicken Drumsticks,pound,2.49
+Winco,Sausage Links,pound,5.37
+Winco,Chicken Breast,package,3.23
+Winco,Hot Dogs,package,4.28
+Winco,Chicken Breast,pound,3.45
+Winco,Carrots,bag,1.18
+Winco,Broccoli,each,1.65
+Winco,Mushrooms,each,2.86
+Winco,Tomatoes,bag,2.89
+Winco,Cucumbers,bunch,1.78
+Winco,Brussels Sprouts,pound,3.2
+Winco,Brussels Sprouts,bag,2.51
+Winco,Beets,pound,1.89
+Winco,Okra,pound,2.73
+Winco,Asparagus,pound,3.07
+Winco,Celery,bunch,1.19
+Winco,Celery,pound,1.29
+Winco,Zucchini,pound,1.37
+Winco,Chives,bag,2.83
+Winco,Bell Peppers,bag,2.48
+Winco,Bell Peppers,bunch,1.54
+Winco,Brussels Sprouts,each,2.81
+Winco,Cabbage,bunch,0.9
+Winco,Beets,pound,1.89
+Winco,Brussels Sprouts,each,3.06
+Winco,Onions,each,0.36
+Winco,Green Beans,each,1.51
+Winco,Artichokes,each,2.59
+Winco,Bell Peppers,bunch,1.51
+Winco,Cauliflower,pound,2.3
+Winco,Artichokes,pound,3.2
+Winco,Mushrooms,bag,2.8
+Winco,Mushrooms,bunch,2.13
+Winco,Garlic,bag,0.7
+Winco,Green Beans,each,2.31
+Winco,Corn,pound,0.98
+Winco,Beets,bag,1.67
+Winco,Mushrooms,pound,2.53
+Winco,Green Beans,pound,2.15
+Winco,Carrots,bunch,0.88
+Winco,Carrots,bag,1.39
+Winco,Corn,bunch,0.87
+Winco,Chives,pound,2.9
+Winco,Cucumbers,bag,1.01
+Winco,Green Beans,pound,2.06
+Winco,Garlic,bunch,0.5
+Winco,Scallions,each,1.33
+Winco,Spinach,pound,2.12
+Winco,Beets,bunch,1.38
+Winco,Tomatoes,bag,2.49
+Winco,Chives,bunch,3.38
+Winco,Spinach,pound,1.95
+Winco,Brussels Sprouts,bag,2.92
+Winco,Corn,bag,1.01
+Winco,Brussels Sprouts,pound,3.09
+Winco,Garlic,bunch,0.3
+Winco,Scallions,each,0.69
+Winco,Corn,pound,1.35
+Winco,Celery,bunch,1.25
+Winco,Spinach,each,2.19
+Winco,Leeks,bag,1.9
+Winco,Onions,each,0.41
+Winco,Radishes,bag,1.13
+Winco,Artichokes,bag,2.5
+Winco,Scallions,each,0.88
+Winco,Zucchini,bag,2.06
+Winco,Garlic,each,0.11
+Winco,Peas,bunch,1.22
+Winco,Cauliflower,each,1.97
+Winco,Leeks,bunch,1.7
+Winco,Okra,bag,2.81
+Winco,Eggplant,bag,2.29
+Winco,Garlic,bunch,0.88
+Winco,Tomatoes,pound,2.75
+Winco,Lettuce,pound,1.38
+Winco,Spinach,bunch,2.18
+Winco,Lettuce,pound,1.72
+Winco,Celery,bunch,1.06
+Winco,Cauliflower,bag,2.52
+Winco,Peas,each,1.44
+Winco,Artichokes,bunch,2.71
+Winco,Asparagus,bag,3.93
+Winco,Artichokes,bunch,3.32
+Winco,Broccoli,pound,1.87
+Winco,Beets,each,1.23
+Winco,Celery,bunch,1.21
+Winco,Cucumbers,pound,1.34
+Winco,Chives,pound,3.48
+Winco,Peas,bunch,1.21
+Winco,Green Beans,bag,2.35
+Winco,Sweet Potatoes,bunch,1.68
+Winco,Celery,each,1.87
+Winco,Asparagus,pound,3.82
+Winco,Beets,pound,1.78
+Winco,Asparagus,bag,3.56
+Winco,Cauliflower,pound,2.13
+Winco,Celery,pound,1.49
+Winco,Eggplant,pound,2.36
+Winco,Carrots,bag,0.8
+Winco,Cauliflower,bunch,2.73
+Winco,Carrots,bag,0.64
+Winco,Cabbage,each,1.28
+Winco,Corn,bag,1.13
+Winco,Beets,bunch,1.67
+Winco,Kale,bunch,2.09
+Winco,Bell Peppers,each,2.25
+Winco,Carrots,each,1.09
+Winco,Spinach,bag,1.54
+Winco,Green Beans,bag,1.78
+Winco,Onions,bag,0.42
+Winco,Brussels Sprouts,bunch,2.66
+Winco,Radishes,pound,1.43
+Winco,Scallions,each,0.53
+Winco,Kale,pound,1.53
+Winco,Tomatoes,bag,2.86
+Winco,Carrots,bag,1.11
+Winco,Asparagus,bag,3.21
+Winco,Cucumbers,bag,1.64
+Winco,Kale,pound,2.09
+Winco,Asparagus,bunch,3.22
+Winco,Spinach,bag,2.35
+Winco,Cucumbers,each,1.42
+Winco,Zucchini,pound,2.25
+Winco,Asparagus,bag,3.44
+Winco,Peas,bag,1.21
+Winco,Radishes,each,0.61
+Winco,Asparagus,each,3.03
+Winco,Carrots,pound,0.55
+Winco,Broccoli,bunch,1.52
+Winco,Beets,bunch,1.93
+Winco,Artichokes,bunch,2.78
+Winco,Kale,pound,1.57
+Winco,Scallions,bunch,0.84
+Winco,Chives,bag,3.19
+Winco,Eggplant,bag,2.23
+Winco,Beets,pound,1.84
+Winco,Zucchini,bag,1.57
+Winco,Sweet Potatoes,each,0.97
+Winco,Beets,each,1.98
+Winco,Peas,bunch,1.29
+Winco,Brussels Sprouts,bag,2.58
+Winco,Carrots,pound,1.06
+Winco,Bell Peppers,each,2.4
+Winco,Carrots,pound,1.17
+Winco,Cabbage,pound,0.83
+Winco,Cauliflower,pound,1.89
+Winco,Green Beans,each,2.27
+Winco,Chives,bag,3.07
+Winco,Corn,bunch,1.21
+Winco,Beets,bunch,1.19
+Winco,Cabbage,pound,1.38
+Winco,Okra,pound,2.43
+Winco,Sweet Potatoes,bunch,0.96
+Winco,Mushrooms,each,2.85
+Winco,Spinach,bunch,2.21
+Winco,Peas,pound,1.21
+Winco,Zucchini,pound,1.91
+Winco,Artichokes,bag,2.92
+Winco,Peas,bunch,1.09
+Winco,Celery,pound,1.01
+Winco,Tomatoes,pound,2.61
+Winco,Chives,bunch,3.1
+Winco,Spinach,each,1.96
+Winco,Leeks,bunch,2.13
+Winco,Lettuce,bunch,1.19
+Winco,Corn,bag,0.99
+Winco,Onions,each,0.45
+Winco,Cucumbers,bag,0.87
+Winco,Celery,bunch,1.79
+Winco,Onions,each,0.51
+Winco,Beets,pound,1.23
+Winco,Potatoes,bunch,0.86
+Winco,Mushrooms,pound,2.29
+Winco,Asparagus,each,3.16
+Winco,Scallions,bag,0.51
+Winco,Cucumbers,each,0.96
+Winco,Potatoes,each,0.88
+Winco,Potatoes,bag,0.56
+Winco,Sweet Potatoes,bag,1.08
+Winco,Artichokes,bag,2.73
+Winco,Leeks,bag,1.33
+Winco,Mushrooms,bunch,2.14
+Winco,Lettuce,each,1.76
+Winco,Radishes,each,1.14
+Winco,Onions,bunch,1.27
+Winco,Peas,pound,1.36
+Winco,Cucumbers,bunch,1.08
+Winco,Chives,pound,3.34
+Winco,Asparagus,each,3.33
+Winco,Asparagus,each,3.13
+Winco,Cabbage,pound,1.07
+Winco,Spinach,each,1.59
+Winco,Onions,pound,0.62
+Winco,Okra,each,2.59
+Winco,Cauliflower,bag,2.69
+Winco,Zucchini,each,2.18
+Winco,Cabbage,each,1.32
+Winco,Mushrooms,bag,2.25
+Winco,Celery,pound,1.02
+Winco,Corn,bunch,1.32
+Winco,Cucumbers,bag,0.91
+Winco,Scallions,pound,1.15
+Winco,Garlic,pound,0.76
+Winco,Scallions,bunch,1.21
+Winco,Spinach,bag,2.38
+Winco,Artichokes,each,3.29
+Winco,Artichokes,each,3.26
+Winco,Peas,bunch,0.95
+Winco,Eggplant,bunch,1.99
+Winco,Chives,bunch,3.16
+Winco,Cauliflower,each,2.34
+Winco,Kale,bag,1.68
+Winco,Peas,bag,1.35
+Winco,Celery,bunch,1.74
+Winco,Zucchini,each,1.48
+Winco,Cauliflower,pound,1.82
+Winco,Broccoli,bag,1.88
+Winco,Celery,each,1.27
+Winco,Corn,pound,1.12
+Winco,Zucchini,bag,1.57
+Winco,Cucumbers,pound,1.57
+Winco,Radishes,bunch,1.24
+Winco,Potatoes,pound,0.72
+Winco,Corn,bag,1.21
+Winco,Broccoli,each,2.23
+Winco,Brussels Sprouts,bag,2.96
+Winco,Artichokes,bag,2.51
+Winco,Brussels Sprouts,pound,2.75
+Winco,Sweet Potatoes,pound,1.3
+Winco,Tomatoes,pound,2.93
+Winco,Cabbage,bag,1.45
+Winco,Mushrooms,pound,2.33
+Winco,Cucumbers,pound,1.39
+Winco,Tomatoes,bunch,2.14
+Winco,Beets,each,1.68
+Winco,Lettuce,bag,1.94
+Winco,Sweet Potatoes,bunch,1.27
+Winco,Okra,pound,2.01
+Winco,Asparagus,pound,3.47
+Winco,Cucumbers,pound,0.85
+Winco,Eggplant,bag,1.88
+Winco,Radishes,each,1.11
+Winco,Brussels Sprouts,bag,2.84
+Winco,Potatoes,pound,1.23
+Winco,Green Beans,bunch,1.61
+Winco,Lettuce,pound,1.08
+Winco,Onions,bunch,1.02
+Winco,Spinach,pound,2.05
+Winco,Cucumbers,pound,1.37
+Winco,Asparagus,bag,3.29
+Winco,Radishes,bunch,1.46
+Winco,Carrots,bunch,1.15
+Winco,Kale,pound,2.17
+Winco,Chives,each,3.07
+Winco,Tomatoes,bunch,2.0
+Winco,Artichokes,bag,2.58
+Winco,Beets,each,1.62
+Winco,Peas,bunch,1.57
+Winco,Leeks,each,1.37
+Winco,Mushrooms,bag,2.31
+Winco,Celery,pound,1.42
+Winco,Mushrooms,pound,2.27
+Winco,Cucumbers,bunch,1.76
+Winco,Tomatoes,bunch,2.32
+Winco,Sweet Potatoes,each,1.1
+Winco,Tomatoes,bag,2.23
+Winco,Sweet Potatoes,bunch,1.78
+Winco,Broccoli,bunch,2.24
+Winco,Cabbage,each,0.88
+Winco,Bell Peppers,each,1.55
+Winco,Cucumbers,each,1.61
+Winco,Lettuce,pound,1.98
+Winco,Eggplant,each,1.6
+Winco,Beets,pound,1.3
+Winco,Artichokes,bag,3.15
+Winco,Brussels Sprouts,each,3.18
+Winco,Mushrooms,each,2.1
+Winco,Lettuce,bag,1.65
+Winco,Brussels Sprouts,each,2.62
+Winco,Zucchini,pound,2.19
+Winco,Mushrooms,bag,2.92
+Winco,Celery,each,1.09
+Winco,Lettuce,bag,1.76
+Winco,Cauliflower,bag,2.31
+Winco,Artichokes,each,2.92
+Winco,Spinach,pound,2.23
+Winco,Brussels Sprouts,bunch,2.77
+Winco,Cabbage,each,0.96
+Winco,Cabbage,each,1.12
+Winco,Brussels Sprouts,pound,3.06
+Winco,Chives,bag,3.44
+Winco,Kale,pound,2.15
+Winco,Onions,bag,0.64
+Winco,Leeks,pound,2.28
+Winco,Cucumbers,pound,1.2
+Winco,Onions,bag,0.34
+Winco,Kale,bunch,1.67
+Winco,Radishes,bag,0.87
+Winco,Cauliflower,bunch,2.53
+Winco,Beets,bunch,1.56
+Winco,Kale,bag,1.57
+Winco,Onions,each,1.08
+Winco,Tomatoes,each,2.79
+Winco,Corn,pound,1.3
+Winco,Green Beans,bunch,1.75
+Winco,Potatoes,bag,0.45
+Winco,Carrots,pound,1.32
+Winco,Sweet Potatoes,each,1.64
+Winco,Tomatoes,each,2.48
+Winco,Potatoes,pound,1.13
+Winco,Bell Peppers,each,1.75
+Winco,Radishes,pound,0.55
+Winco,Cucumbers,bag,1.16
+Winco,Carrots,each,1.46
+Winco,Spinach,bag,1.86
+Winco,Scallions,pound,0.54
+Winco,Tomatoes,bunch,2.89
+Winco,Mushrooms,pound,2.61
+Winco,Kale,each,2.06
+Winco,Cauliflower,pound,1.86
+Winco,Peas,bag,0.93
+Winco,Corn,each,1.05
+Winco,Lettuce,bunch,1.34
+Winco,Eggplant,bunch,1.63
+Winco,Bell Peppers,bag,2.25
+Winco,Cucumbers,bunch,0.97
+Winco,Cabbage,pound,0.98
+Winco,Mushrooms,pound,2.52
+Winco,Eggplant,each,1.8
+Winco,Onions,bunch,0.5
+Winco,Cabbage,each,0.88
+Winco,Cabbage,each,0.81
+Winco,Potatoes,bunch,1.11
+Winco,Celery,each,1.68
+Winco,Asparagus,each,3.15
+Winco,Cauliflower,each,1.85
+Winco,Okra,pound,2.13
+Winco,Sweet Potatoes,pound,0.84
+Winco,Lettuce,pound,1.91
+Winco,Onions,pound,0.87
+Winco,Chives,pound,3.27
+Winco,Leeks,bag,2.19
+Winco,Potatoes,bag,1.02
+Winco,Eggplant,bag,1.86
+Winco,Carrots,pound,1.32
+Winco,Kale,bag,1.54
+Winco,Potatoes,bag,0.44
+Winco,Cabbage,pound,1.48
+Winco,Broccoli,pound,1.98
+Winco,Tomatoes,bunch,2.1
+Winco,Chives,pound,3.09
+Winco,Green Beans,each,2.08
+Winco,Peas,pound,1.46
+Winco,Celery,bag,1.85
+Winco,Kale,pound,1.94
+Winco,Scallions,bunch,0.99
+Winco,Zucchini,pound,1.5
+Winco,Garlic,each,0.27
+Winco,Tomatoes,pound,2.55
+Winco,Potatoes,bag,1.36
+Winco,Cauliflower,pound,2.78
+Winco,Eggplant,bunch,1.52
+Winco,Beets,pound,1.82
+Winco,Leeks,bag,1.76
+Winco,Beets,bag,1.27
+Winco,Carrots,each,1.43
+Winco,Garlic,each,0.37
+Winco,Potatoes,each,1.12
+Winco,Radishes,pound,1.41
+Winco,Cabbage,bag,0.92
+Winco,Bell Peppers,bag,1.56
+Winco,Potatoes,pound,1.17
+Winco,Onions,bunch,0.98
+Winco,Chives,bag,3.32
+Winco,Peas,bag,0.85
+Winco,Radishes,bag,0.51
+Winco,Tomatoes,bag,2.36
+Winco,Brussels Sprouts,pound,2.49
+Winco,Green Beans,bunch,2.2
+Winco,Potatoes,pound,0.55
+Winco,Potatoes,bag,1.07
+Winco,Leeks,each,1.84
+Winco,Artichokes,pound,3.42
+Winco,Eggplant,pound,2.29
+Winco,Corn,pound,0.95
+Winco,Scallions,pound,0.81
+Winco,Cabbage,bag,1.46
+Winco,Corn,pound,1.01
+Winco,Kale,bunch,2.38
+Winco,Broccoli,pound,2.02
+Winco,Scallions,each,0.84
+Winco,Onions,bunch,0.4
+Winco,Celery,pound,1.26
+Winco,Spinach,bunch,2.18
+Winco,Okra,pound,2.42
+Winco,Scallions,bag,0.82
+Winco,Asparagus,each,3.92
+Winco,Okra,bag,2.33
+Winco,Potatoes,bunch,1.27
+Winco,Peas,bunch,1.02
+Winco,Broccoli,bunch,1.88
+Winco,Leeks,bunch,1.29
+Winco,Celery,each,1.73
+Winco,Bell Peppers,pound,1.65
+Winco,Cauliflower,pound,2.15
+Winco,Cheese,bag, 4.15

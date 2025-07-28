@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Budget Grocery Helper</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 2rem;
+      background-color: #f8f0fc;
+      font-family: 'Segoe UI', sans-serif;
+      color: #4a148c;
+    }
+
+    h2 {
+      color: #6a1b9a;
+      margin-top: 0;
+    }
+
+    .container {
+      max-width: 1000px;
+      margin: auto;
+    }
+
+    .row {
+      display: flex;
+      gap: 1rem;
+      flex-wrap: wrap;
+      justify-content: space-between;
+    }
+
+    .box {
+      flex: 1;
+      min-width: 280px;
+      background-color: #fcffe3;
+      border-radius: 12px;
+      padding: 1rem;
+      margin-bottom: 1rem;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.08);
+    }
+
+    form {
+      display: flex;
+      flex-direction: column;
+      gap: 0.8rem;
+    }
+
+    input[type="number"],
+    textarea {
+      padding: 0.6rem;
+      border-radius: 8px;
+      border: 1px solid #ce93d8;
+      font-size: 1rem;
+    }
+
+    button {
+      background-color: #ab47bc;
+      color: white;
+      border: none;
+      padding: 0.8rem;
+      border-radius: 10px;
+      font-size: 1rem;
+      cursor: pointer;
+      transition: background 0.3s, transform 0.2s;
+    }
+
+    button:hover {
+      background: #9c27b0;
+      transform: translateY(-2px);
+    }
+
+    ul {
+      padding-left: 1.2rem;
+      margin: 0;
+    }
+
+    ul li {
+      margin-bottom: 0.4rem;
+    }
+
+    .inspo a {
+      display: block;
+      margin: 0.3rem 0;
+      background-color: #fea3db;
+      padding: 0.5rem;
+      text-decoration: none;
+      color: #4a148c;
+      border-radius: 8px;
+      transition: background 0.3s;
+    }
+
+    .inspo a:hover {
+      background-color: #caf7fa;
+    }
+
+    @media (max-width: 700px) {
+      .row {
+        flex-direction: column;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+
+    <h2>💸 Grocery Budget Helper</h2>
+
+    <div class="row">
+      <!-- Budget Form -->
+      <div class="box">
+        <form method="POST" action="/">
+          <label>Which store are you shopping at?</label>
+          <input name="store" required placeholder="e.g., Winco, Smiths, Walmart">
+          <label>Enter grocery list (one item per line, format: item, quantity/lb):</label>
+          <textarea name="grocery_list" rows="8" placeholder="chicken breast, 2&#10;broccoli, 1.5&#10;bacon, 1" required></textarea>
+          <button type="submit">Calculate</button>
+        </form>
+      </div>
+
+      <!-- Tips Box -->
+      
+    <div class="box">
+        <h3>🛍️ Quick Grocery Tips</h3>
+        <ul>
+          <li>Buy store-brand over name-brand</li>
+          <li>Use loyalty cards & coupons</li>
+          <li>Buy in bulk when practical</li>
+          <li>Stick to your list!</li>
+          <li>Freeze leftovers</li>
+        </ul>
+    </div>
+    <div class="box">
+      <div style="flex: 0 0 300px; display: flex; flex-direction: column; gap: 1rem;">
+
+        <!-- 💡 Inspiration -->
+        <div style="background: #baf0f3; padding: 1.2rem; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+            <h3 style="margin-bottom: 1rem; font-size: 1.2rem; color: #00796b;">✨ Inspiration Behind the App</h3>
+            <p style="line-height: 1.5;">
+                My husband and I are both college students with our only income coming from BYU jobs.
+                Grocery shopping got expensive, but I found it hard to predict the total until checkout.
+                This app helps you stay on budget—quickly and easily—before even leaving home!
+            </p>
+        </div>
+
+      <!-- Inspiration Box -->
+      <div class="box inspo">
+        <h3>🍴 Cheap Recipe Inspiration</h3>
+        <a href="https://www.budgetbytes.com/chicken-and-dumplings/" target="_blank">🥕 Chicken and Dumplings</a>
+        <a href="https://www.budgetbytes.com/honey-garlic-chicken/" target="_blank">🍗 Honey Garlic Chicken</a>
+        <a href="https://www.budgetbytes.com/one-pot-creamy-cajun-chicken-pasta/" target="_blank">🔥 Creamy Cajun Pasta</a>
+        <a href="https://www.budgetbytes.com/summer-vegetable-pasta-salad/" target="_blank">🍝 Summer Pasta Salad</a>
+      </div>
+    </div>
+
+  </div>
+
+</body>
+</html>
