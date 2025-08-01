@@ -1,5 +1,6 @@
 from flask import Flask, request, render_template_string, render_template
 import csv
+from difflib import get_close_matches
 
 app = Flask(__name__)
 
@@ -17,6 +18,16 @@ def load_prices(filename="/Users/alisonbarone/Desktop/Personal Project/Winco_Mea
     return prices
 
 prices = load_prices()
+
+def suggest_items(input_item, store, all_items, max_suggestions=3):
+    # Filter for items in the current store only
+    store_items = [item for (s, item) in all_items if s == store.lower()]
+    
+    # Try to get close matches
+    matches = get_close_matches(input_item, store_items, n=max_suggestions, cutoff=0.6)
+    return matches
+
+
 def parse_grocery_list(text):
     shopping_list = {}
     # Expect input lines like: item, quantity
@@ -49,7 +60,13 @@ def home():
                 total += cost
                 details.append(f"{item.title()} ({qty} {unit}): ${cost:.2f}")
             else:
-                missing_items.append(item)
+             # Suggest similar items
+                suggestions = suggest_items(item, store, prices.keys())
+                if suggestions:
+                    formatted_suggestions = ", ".join(suggestions)
+                    missing_items.append(f"{item} (Did you mean: {formatted_suggestions}?)")
+                else:
+                    missing_items.append(f"{item} (No suggestions)")
         result = {
             'total': total,
             'details': details,
