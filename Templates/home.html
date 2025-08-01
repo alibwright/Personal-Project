@@ -38,6 +38,7 @@
       padding: 1rem;
       margin-bottom: 1rem;
       box-shadow: 0 4px 8px rgba(0,0,0,0.08);
+      
     }
 
     form {
@@ -112,13 +113,34 @@
       <div class="box">
         <form method="POST" action="/">
           <label>Which store are you shopping at?</label>
-          <input name="store" required placeholder="e.g., Winco, Smiths, Walmart">
+          <input name="store" required placeholder="e.g., Winco, Smiths, Walmart" value="{{ result.store if result else '' }}">
           <label>Enter grocery list (one item per line, format: item, quantity/lb):</label>
-          <textarea name="grocery_list" rows="8" placeholder="chicken breast, 2&#10;broccoli, 1.5&#10;bacon, 1" required></textarea>
+          <textarea name="grocery_list" rows="8" placeholder="chicken breast, 2&#10;broccoli, 1.5&#10;bacon, 1" required>{{ result.grocery_text if result else '' }}</textarea>
+          <button type="button" onclick="document.querySelector('textarea[name=grocery_list]').value = '';">Clear List</button>
           <button type="submit">Calculate</button>
         </form>
+      
+        {% if result %}
+          <div style="background-color: #e1bee7; border-radius: 10px; padding: 1rem; margin-top: 1rem;">
+            <h3>🧾 Your Grocery List Results for {{ result.store }}</h3>
+            <ul>
+              {% for line in result.details %}
+                <li>{{ line }}</li>
+              {% endfor %}
+            </ul>
+            <p><strong>Total cost: ${{ "%.2f"|format(result.total) }}</strong></p>
+      
+            {% if result.missing %}
+              <p><em>Missing items (not found):</em></p>
+              <ul>
+                {% for mi in result.missing %}
+                  <li>{{ mi }}</li>
+                {% endfor %}
+              </ul>
+            {% endif %}
+          </div>
+        {% endif %}
       </div>
-
       <!-- Tips Box -->
       
     <div class="box">
